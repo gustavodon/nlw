@@ -11,5 +11,5 @@ Projeto desenvolvido no evento da Next Level Week da Rocketseat.
 
 >Tecnologias
 - HTML
--CSS
-Git e Github
+- CSS
+- Git e Github
